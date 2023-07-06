@@ -1,2 +1,7 @@
-# Frontend-Meentor-Product-preview-card-component
-Product preview card component Frontend Mentor challenge
+# Frontend Mentor - Product preview card component
+
+Built By:
+-HTML5
+-CSS3
+
+Author: Moustafa A. Abdeellatif
